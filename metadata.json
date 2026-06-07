@@ -1,0 +1,6 @@
+{
+  "name": "Automated Technical Documentation Generator",
+  "description": "Generate comprehensive technical manuals, architecture explanations, READMEs, circuit descriptions, and Mermaid diagrams from uploaded source code repositories, KiCad schematics, Verilog designs, PDFs, or Arduino code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
